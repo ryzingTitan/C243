@@ -1,0 +1,349 @@
+
+
+Which of the following actions do you wish to take?
+   B)uild or modify the current tree interactively.
+   C)ount the number of sibling pairs in the tree.
+   D)etermine whether the tree is height balanced.
+   G)row new leaves on the current tree.
+   P)rint the current tree on the screen.
+   Q)uit.
+   S)um the data in the leaves of the tree.
+
+Your choice:  b
+
+You are currently at an empty tree. If you wish to create
+a new node at this position, type C and press Enter.
+Otherwise type U to go up to the parent node (if any).  c
+Enter an integer for the new node:  1
+
+The datum of the node at which you have arrived is
+         1
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+l
+
+You are currently at an empty tree. If you wish to create
+a new node at this position, type C and press Enter.
+Otherwise type U to go up to the parent node (if any).  c
+Enter an integer for the new node:  2
+
+The datum of the node at which you have arrived is
+         2
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+l
+
+You are currently at an empty tree. If you wish to create
+a new node at this position, type C and press Enter.
+Otherwise type U to go up to the parent node (if any).  c
+Enter an integer for the new node:  3
+
+The datum of the node at which you have arrived is
+         3
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+u
+
+The datum of the node at which you have arrived is
+         2
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+r
+
+You are currently at an empty tree. If you wish to create
+a new node at this position, type C and press Enter.
+Otherwise type U to go up to the parent node (if any).  c
+Enter an integer for the new node:  4
+
+The datum of the node at which you have arrived is
+         4
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+l
+
+You are currently at an empty tree. If you wish to create
+a new node at this position, type C and press Enter.
+Otherwise type U to go up to the parent node (if any).  c
+Enter an integer for the new node:  5
+
+The datum of the node at which you have arrived is
+         5
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+u
+
+The datum of the node at which you have arrived is
+         4
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+u
+
+The datum of the node at which you have arrived is
+         2
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+u
+
+The datum of the node at which you have arrived is
+         1
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+r
+
+You are currently at an empty tree. If you wish to create
+a new node at this position, type C and press Enter.
+Otherwise type U to go up to the parent node (if any).  c
+Enter an integer for the new node:  6
+
+The datum of the node at which you have arrived is
+         6
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+l
+
+You are currently at an empty tree. If you wish to create
+a new node at this position, type C and press Enter.
+Otherwise type U to go up to the parent node (if any).  c
+Enter an integer for the new node:  7
+
+The datum of the node at which you have arrived is
+         7
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+l
+
+You are currently at an empty tree. If you wish to create
+a new node at this position, type C and press Enter.
+Otherwise type U to go up to the parent node (if any).  c
+Enter an integer for the new node:  8
+
+The datum of the node at which you have arrived is
+         8
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+u
+
+The datum of the node at which you have arrived is
+         7
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+r
+
+You are currently at an empty tree. If you wish to create
+a new node at this position, type C and press Enter.
+Otherwise type U to go up to the parent node (if any).  c
+Enter an integer for the new node:  9
+
+The datum of the node at which you have arrived is
+         9
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+u
+
+The datum of the node at which you have arrived is
+         7
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+u
+
+The datum of the node at which you have arrived is
+         6
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+r
+
+You are currently at an empty tree. If you wish to create
+a new node at this position, type C and press Enter.
+Otherwise type U to go up to the parent node (if any).  c
+Enter an integer for the new node:  10
+
+The datum of the node at which you have arrived is
+         10
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+r
+
+You are currently at an empty tree. If you wish to create
+a new node at this position, type C and press Enter.
+Otherwise type U to go up to the parent node (if any).  c
+Enter an integer for the new node:  11
+
+The datum of the node at which you have arrived is
+         11
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+u
+
+The datum of the node at which you have arrived is
+         10
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+u
+
+The datum of the node at which you have arrived is
+         6
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+u
+
+The datum of the node at which you have arrived is
+         1
+Enter  U  to go up to the parent node,
+       L  to go down to the left,
+       R  to go down to the right,
+       M  to modify value of the datum stored here.
+u
+
+
+Which of the following actions do you wish to take?
+   B)uild or modify the current tree interactively.
+   C)ount the number of sibling pairs in the tree.
+   D)etermine whether the tree is height balanced.
+   G)row new leaves on the current tree.
+   P)rint the current tree on the screen.
+   Q)uit.
+   S)um the data in the leaves of the tree.
+
+Your choice:  p
+            01
+    ________/\___________ 
+   02                   06
+ __/\_____         _____/\__ 
+03       04       07       10
+       __/      __/\__      \__ 
+      05       08    09       11
+
+
+
+
+Which of the following actions do you wish to take?
+   B)uild or modify the current tree interactively.
+   C)ount the number of sibling pairs in the tree.
+   D)etermine whether the tree is height balanced.
+   G)row new leaves on the current tree.
+   P)rint the current tree on the screen.
+   Q)uit.
+   S)um the data in the leaves of the tree.
+
+Your choice:  c
+
+The tree contains 4 sibling pairs.
+
+
+Which of the following actions do you wish to take?
+   B)uild or modify the current tree interactively.
+   C)ount the number of sibling pairs in the tree.
+   D)etermine whether the tree is height balanced.
+   G)row new leaves on the current tree.
+   P)rint the current tree on the screen.
+   Q)uit.
+   S)um the data in the leaves of the tree.
+
+Your choice:  d
+
+The tree is height balanced.
+
+
+Which of the following actions do you wish to take?
+   B)uild or modify the current tree interactively.
+   C)ount the number of sibling pairs in the tree.
+   D)etermine whether the tree is height balanced.
+   G)row new leaves on the current tree.
+   P)rint the current tree on the screen.
+   Q)uit.
+   S)um the data in the leaves of the tree.
+
+Your choice:  s
+
+The sum of the data in the tree leaves is 36
+
+
+Which of the following actions do you wish to take?
+   B)uild or modify the current tree interactively.
+   C)ount the number of sibling pairs in the tree.
+   D)etermine whether the tree is height balanced.
+   G)row new leaves on the current tree.
+   P)rint the current tree on the screen.
+   Q)uit.
+   S)um the data in the leaves of the tree.
+
+Your choice:  g
+
+The tree should now have new leaves.
+
+
+Which of the following actions do you wish to take?
+   B)uild or modify the current tree interactively.
+   C)ount the number of sibling pairs in the tree.
+   D)etermine whether the tree is height balanced.
+   G)row new leaves on the current tree.
+   P)rint the current tree on the screen.
+   Q)uit.
+   S)um the data in the leaves of the tree.
+
+Your choice:  p
+                           01
+          _________________/\_______________________ 
+         02                                        06
+    _____/\___________                  ___________/\_____ 
+   03                04                07                10
+ __/\__         _____/\__         _____/\_____         __/\_____ 
+00    00       05       00       08          09       00       11
+             __/\__            __/\__      __/\__            __/\__ 
+            00    00          00    00    00    00          00    00
+
+
+
+
+Which of the following actions do you wish to take?
+   B)uild or modify the current tree interactively.
+   C)ount the number of sibling pairs in the tree.
+   D)etermine whether the tree is height balanced.
+   G)row new leaves on the current tree.
+   P)rint the current tree on the screen.
+   Q)uit.
+   S)um the data in the leaves of the tree.
+
+Your choice:  q
+
+
